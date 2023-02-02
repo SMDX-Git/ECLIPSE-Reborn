@@ -4,7 +4,8 @@ The ULTIMATE Password/Discord/Cookie Logger.
  𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒉𝒆 𝑬𝑪𝑳𝑰𝑷𝑺𝑬,
  We provide the best tools needed in order to launch a succesful attack.
  
- 
+ ![ECLIPSE Showcase](https://user-images.githubusercontent.com/58075798/216446103-1575216a-9a63-4d91-aa26-68789287c0c6.png)
+
  
  (early build, I will add way more features later on)
  
