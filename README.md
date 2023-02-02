@@ -3,6 +3,8 @@ The ULTIMATE Password/Discord/Cookie Logger.
 
  𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒉𝒆 𝑬𝑪𝑳𝑰𝑷𝑺𝑬,
  We provide the best tools needed in order to launch a succesful attack.
+ https://imgur.com/RDKQu6b
+ (early build, I will add way more features later on)
  
 
 
